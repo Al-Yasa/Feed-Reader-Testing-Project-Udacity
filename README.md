@@ -2,13 +2,9 @@
 
 This is a project for the Udacity Front-End Nanodegree called **Feed Reader Testing**.
 
-Check out this project on [GitHub Pages](https://al-yasa.github.io/Feed-Reader-Testing-Project-Udacity/ "Feed Reader Testing - Belhenniche Al-Yasa'").
-
 ## Usage
 
-You can run the app online or locally.
-
-If you want to run the app online [Click Here](https://al-yasa.github.io/Feed-Reader-Testing-Project-Udacity/ "Feed Reader Testing - Belhenniche Al-Yasa'").
+You can run the app locally.
 
 If you want to run locally you have to download the app first:
 
